@@ -1,0 +1,138 @@
+{
+   "Characters":[
+      {
+         "name":"Neon",
+         "age":17,
+         "ultimate":"OVERDRIVE",
+         "personality":"You made me care. Big mistake",
+         "origin":"Philippines",
+         "id":1
+      },
+      {
+         "name":"Viper",
+         "age":35,
+         "ultimate":"VIPER'S PIT",
+         "personality":"They call me a monster. Shall I prove them right?",
+         "origin":"United States",
+         "id":2
+      },
+      {
+         "name":"Phoenix",
+         "age":20,
+         "ultimate":"RUN IT BACK",
+         "personality":"Yes, yes, it's me, autographs if we survive, yeah?",
+         "origin":"United Kingdom",
+         "id":3
+      },
+      {
+         "name":"Yoru",
+         "age":23,
+         "ultimate":"DIMENSIONAL DRIFT",
+         "personality":"Five enemies. Five for me, none for anyone else",
+         "origin":"Japan",
+         "id":4
+      },
+      {
+         "name":"Sage",
+         "age":25,
+         "ultimate":"RESURRECTION",
+         "personality":"I wasn't strong enough before. But now, now I am strong enough for us all",
+         "origin":"China",
+         "id":5
+      },
+      {
+         "name":"Omen",
+         "age":40,
+         "ultimate":"FROM THE SHADOWS",
+         "personality":"If I must live in this nightmare my enemies might as well join me",
+         "origin":"Unknown",
+         "id":6
+      }
+   ],
+   "Maps":[
+      {
+         "name":"Brezze",
+         "detail":"Oceanic",
+         "characterId":5,
+         "id":1
+      },
+      {
+         "name":"Bind",
+         "detail":"Old World",
+         "characterId":2,
+         "id":2
+      },
+      {
+         "name":"Haven",
+         "detail":"Three bombs",
+         "characterId":5,
+         "id":3
+      },
+      {
+         "name":"Haven",
+         "detail":"Three bombs",
+         "characterId":6,
+         "id":4
+      },
+      {
+         "name":"Haven",
+         "detail":"Three bombs",
+         "characterId":2,
+         "id":5
+      },
+      {
+         "name":"Brezze",
+         "detail":"Oceanic",
+         "characterId":1,
+         "id":6
+      },
+      {
+         "name":"Bind",
+         "detail":"Old World",
+         "characterId":1,
+         "id":7
+      },
+      {
+         "name":"Ascent",
+         "detail":"The first destruction",
+         "characterId":2,
+         "id":8
+      },
+      {
+         "name":"Ascent",
+         "detail":"The first destruction",
+         "characterId":6,
+         "id":9
+      },
+      {
+         "name":"Ascent",
+         "detail":"The first destruction",
+         "characterId":5,
+         "id":10
+      },
+      {
+         "name":"Split",
+         "detail":"Removed",
+         "characterId":4,
+         "id":11
+      },
+      {
+         "name":"Icebox",
+         "detail":"Tech center",
+         "characterId":5,
+         "id":12
+      },
+      {
+         "name":"Icebox",
+         "detail":"Tech center",
+         "characterId":4,
+         "id":13
+      },
+      {
+         "name":"Pearl",
+         "detail":"New World in Valorant",
+         "characterId":1,
+         "id":14
+      }
+   ]
+}
